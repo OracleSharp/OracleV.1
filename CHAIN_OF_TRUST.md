@@ -1,0 +1,1 @@
+Documentation of GPG key, signing process, and verification guarantees
